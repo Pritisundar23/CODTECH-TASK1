@@ -1,9 +1,17 @@
 Name:Pritisundar Nayak
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS2036
-Domain- Web development
-Duration-june-july 2024
-Mentor-Savani Gouni
+
+Domain: Web development
+
+Duration:june-july 2024
+
+Mentor:Savani Gouni
+
+
+
 
 
 Overview of task-1
